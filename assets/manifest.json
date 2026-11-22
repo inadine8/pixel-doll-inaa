@@ -1,0 +1,1019 @@
+{
+ "canvas": {
+  "w": 32,
+  "h": 45
+ },
+ "note": "Semua layer berukuran sama (32x45). Tumpuk berurutan sesuai z (kecil = paling belakang).",
+ "layers": [
+  {
+   "slot": "body",
+   "file": "svg/body/body_peach.svg",
+   "name": "Peach",
+   "z": 1
+  },
+  {
+   "slot": "body",
+   "file": "svg/body/body_cream.svg",
+   "name": "Cream",
+   "z": 1
+  },
+  {
+   "slot": "body",
+   "file": "svg/body/body_tan.svg",
+   "name": "Tan",
+   "z": 1
+  },
+  {
+   "slot": "body",
+   "file": "svg/body/body_cocoa.svg",
+   "name": "Cocoa",
+   "z": 1
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_cocoa_back.svg",
+   "name": "Bob",
+   "color": "Cocoa",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_cocoa_front.svg",
+   "name": "Bob",
+   "color": "Cocoa",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_candy_back.svg",
+   "name": "Bob",
+   "color": "Candy",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_candy_front.svg",
+   "name": "Bob",
+   "color": "Candy",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_lilac_back.svg",
+   "name": "Bob",
+   "color": "Lilac",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_lilac_front.svg",
+   "name": "Bob",
+   "color": "Lilac",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_sky_back.svg",
+   "name": "Bob",
+   "color": "Sky",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_sky_front.svg",
+   "name": "Bob",
+   "color": "Sky",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_honey_back.svg",
+   "name": "Bob",
+   "color": "Honey",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_honey_front.svg",
+   "name": "Bob",
+   "color": "Honey",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_midnight_back.svg",
+   "name": "Bob",
+   "color": "Midnight",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_midnight_front.svg",
+   "name": "Bob",
+   "color": "Midnight",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_mint_back.svg",
+   "name": "Bob",
+   "color": "Mint",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bob_mint_front.svg",
+   "name": "Bob",
+   "color": "Mint",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_cocoa_back.svg",
+   "name": "Long",
+   "color": "Cocoa",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_cocoa_front.svg",
+   "name": "Long",
+   "color": "Cocoa",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_candy_back.svg",
+   "name": "Long",
+   "color": "Candy",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_candy_front.svg",
+   "name": "Long",
+   "color": "Candy",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_lilac_back.svg",
+   "name": "Long",
+   "color": "Lilac",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_lilac_front.svg",
+   "name": "Long",
+   "color": "Lilac",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_sky_back.svg",
+   "name": "Long",
+   "color": "Sky",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_sky_front.svg",
+   "name": "Long",
+   "color": "Sky",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_honey_back.svg",
+   "name": "Long",
+   "color": "Honey",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_honey_front.svg",
+   "name": "Long",
+   "color": "Honey",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_midnight_back.svg",
+   "name": "Long",
+   "color": "Midnight",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_midnight_front.svg",
+   "name": "Long",
+   "color": "Midnight",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_mint_back.svg",
+   "name": "Long",
+   "color": "Mint",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_long_mint_front.svg",
+   "name": "Long",
+   "color": "Mint",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_cocoa_back.svg",
+   "name": "Twin Tails",
+   "color": "Cocoa",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_cocoa_front.svg",
+   "name": "Twin Tails",
+   "color": "Cocoa",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_candy_back.svg",
+   "name": "Twin Tails",
+   "color": "Candy",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_candy_front.svg",
+   "name": "Twin Tails",
+   "color": "Candy",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_lilac_back.svg",
+   "name": "Twin Tails",
+   "color": "Lilac",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_lilac_front.svg",
+   "name": "Twin Tails",
+   "color": "Lilac",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_sky_back.svg",
+   "name": "Twin Tails",
+   "color": "Sky",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_sky_front.svg",
+   "name": "Twin Tails",
+   "color": "Sky",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_honey_back.svg",
+   "name": "Twin Tails",
+   "color": "Honey",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_honey_front.svg",
+   "name": "Twin Tails",
+   "color": "Honey",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_midnight_back.svg",
+   "name": "Twin Tails",
+   "color": "Midnight",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_midnight_front.svg",
+   "name": "Twin Tails",
+   "color": "Midnight",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_mint_back.svg",
+   "name": "Twin Tails",
+   "color": "Mint",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_twin-tails_mint_front.svg",
+   "name": "Twin Tails",
+   "color": "Mint",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_cocoa_back.svg",
+   "name": "Bun",
+   "color": "Cocoa",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_cocoa_front.svg",
+   "name": "Bun",
+   "color": "Cocoa",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_candy_back.svg",
+   "name": "Bun",
+   "color": "Candy",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_candy_front.svg",
+   "name": "Bun",
+   "color": "Candy",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_lilac_back.svg",
+   "name": "Bun",
+   "color": "Lilac",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_lilac_front.svg",
+   "name": "Bun",
+   "color": "Lilac",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_sky_back.svg",
+   "name": "Bun",
+   "color": "Sky",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_sky_front.svg",
+   "name": "Bun",
+   "color": "Sky",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_honey_back.svg",
+   "name": "Bun",
+   "color": "Honey",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_honey_front.svg",
+   "name": "Bun",
+   "color": "Honey",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_midnight_back.svg",
+   "name": "Bun",
+   "color": "Midnight",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_midnight_front.svg",
+   "name": "Bun",
+   "color": "Midnight",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_mint_back.svg",
+   "name": "Bun",
+   "color": "Mint",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_bun_mint_front.svg",
+   "name": "Bun",
+   "color": "Mint",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_cocoa_back.svg",
+   "name": "Pixie",
+   "color": "Cocoa",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_cocoa_front.svg",
+   "name": "Pixie",
+   "color": "Cocoa",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_candy_back.svg",
+   "name": "Pixie",
+   "color": "Candy",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_candy_front.svg",
+   "name": "Pixie",
+   "color": "Candy",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_lilac_back.svg",
+   "name": "Pixie",
+   "color": "Lilac",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_lilac_front.svg",
+   "name": "Pixie",
+   "color": "Lilac",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_sky_back.svg",
+   "name": "Pixie",
+   "color": "Sky",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_sky_front.svg",
+   "name": "Pixie",
+   "color": "Sky",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_honey_back.svg",
+   "name": "Pixie",
+   "color": "Honey",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_honey_front.svg",
+   "name": "Pixie",
+   "color": "Honey",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_midnight_back.svg",
+   "name": "Pixie",
+   "color": "Midnight",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_midnight_front.svg",
+   "name": "Pixie",
+   "color": "Midnight",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_mint_back.svg",
+   "name": "Pixie",
+   "color": "Mint",
+   "part": "back",
+   "z": 0
+  },
+  {
+   "slot": "hair",
+   "file": "svg/hair/hair_pixie_mint_front.svg",
+   "name": "Pixie",
+   "color": "Mint",
+   "part": "front",
+   "z": 8
+  },
+  {
+   "slot": "eyes",
+   "file": "svg/eyes/eyes_sparkle.svg",
+   "name": "Sparkle",
+   "z": 9
+  },
+  {
+   "slot": "eyes",
+   "file": "svg/eyes/eyes_violet.svg",
+   "name": "Violet",
+   "z": 9
+  },
+  {
+   "slot": "eyes",
+   "file": "svg/eyes/eyes_happy.svg",
+   "name": "Happy",
+   "z": 9
+  },
+  {
+   "slot": "eyes",
+   "file": "svg/eyes/eyes_sleepy.svg",
+   "name": "Sleepy",
+   "z": 9
+  },
+  {
+   "slot": "eyes",
+   "file": "svg/eyes/eyes_star.svg",
+   "name": "Star",
+   "z": 9
+  },
+  {
+   "slot": "brows",
+   "file": "svg/brows/brows_soft.svg",
+   "name": "Soft",
+   "z": 9
+  },
+  {
+   "slot": "brows",
+   "file": "svg/brows/brows_arched.svg",
+   "name": "Arched",
+   "z": 9
+  },
+  {
+   "slot": "brows",
+   "file": "svg/brows/brows_bold.svg",
+   "name": "Bold",
+   "z": 9
+  },
+  {
+   "slot": "blush",
+   "file": "svg/blush/blush_rosy.svg",
+   "name": "Rosy",
+   "z": 9
+  },
+  {
+   "slot": "blush",
+   "file": "svg/blush/blush_peachy.svg",
+   "name": "Peachy",
+   "z": 9
+  },
+  {
+   "slot": "blush",
+   "file": "svg/blush/blush_hearts.svg",
+   "name": "Hearts",
+   "z": 9
+  },
+  {
+   "slot": "blush",
+   "file": "svg/blush/blush_freckles.svg",
+   "name": "Freckles",
+   "z": 9
+  },
+  {
+   "slot": "lips",
+   "file": "svg/lips/lips_rose.svg",
+   "name": "Rose",
+   "z": 9
+  },
+  {
+   "slot": "lips",
+   "file": "svg/lips/lips_coral.svg",
+   "name": "Coral",
+   "z": 9
+  },
+  {
+   "slot": "lips",
+   "file": "svg/lips/lips_berry.svg",
+   "name": "Berry",
+   "z": 9
+  },
+  {
+   "slot": "lips",
+   "file": "svg/lips/lips_cat.svg",
+   "name": "Cat",
+   "z": 9
+  },
+  {
+   "slot": "lips",
+   "file": "svg/lips/lips_happy.svg",
+   "name": "Happy",
+   "z": 9
+  },
+  {
+   "slot": "makeup",
+   "file": "svg/makeup/makeup_pink-shadow.svg",
+   "name": "Pink Shadow",
+   "z": 9
+  },
+  {
+   "slot": "makeup",
+   "file": "svg/makeup/makeup_lilac-shadow.svg",
+   "name": "Lilac Shadow",
+   "z": 9
+  },
+  {
+   "slot": "makeup",
+   "file": "svg/makeup/makeup_sky-shadow.svg",
+   "name": "Sky Shadow",
+   "z": 9
+  },
+  {
+   "slot": "makeup",
+   "file": "svg/makeup/makeup_glitter.svg",
+   "name": "Glitter",
+   "z": 9
+  },
+  {
+   "slot": "makeup",
+   "file": "svg/makeup/makeup_star-dot.svg",
+   "name": "Star Dot",
+   "z": 9
+  },
+  {
+   "slot": "dress",
+   "file": "svg/dress/dress_sundress.svg",
+   "name": "Sundress",
+   "z": 4
+  },
+  {
+   "slot": "dress",
+   "file": "svg/dress/dress_princess.svg",
+   "name": "Princess",
+   "z": 4
+  },
+  {
+   "slot": "dress",
+   "file": "svg/dress/dress_sailor.svg",
+   "name": "Sailor",
+   "z": 4
+  },
+  {
+   "slot": "dress",
+   "file": "svg/dress/dress_pinafore.svg",
+   "name": "Pinafore",
+   "z": 4
+  },
+  {
+   "slot": "top",
+   "file": "svg/top/top_cream-tee.svg",
+   "name": "Cream Tee",
+   "z": 4
+  },
+  {
+   "slot": "top",
+   "file": "svg/top/top_crop-top.svg",
+   "name": "Crop Top",
+   "z": 4
+  },
+  {
+   "slot": "top",
+   "file": "svg/top/top_sweater.svg",
+   "name": "Sweater",
+   "z": 4
+  },
+  {
+   "slot": "top",
+   "file": "svg/top/top_bow-blouse.svg",
+   "name": "Bow Blouse",
+   "z": 4
+  },
+  {
+   "slot": "top",
+   "file": "svg/top/top_camisole.svg",
+   "name": "Camisole",
+   "z": 4
+  },
+  {
+   "slot": "skirt",
+   "file": "svg/skirt/skirt_pleated.svg",
+   "name": "Pleated",
+   "z": 3
+  },
+  {
+   "slot": "skirt",
+   "file": "svg/skirt/skirt_tutu.svg",
+   "name": "Tutu",
+   "z": 3
+  },
+  {
+   "slot": "skirt",
+   "file": "svg/skirt/skirt_denim-mini.svg",
+   "name": "Denim Mini",
+   "z": 3
+  },
+  {
+   "slot": "skirt",
+   "file": "svg/skirt/skirt_plaid.svg",
+   "name": "Plaid",
+   "z": 3
+  },
+  {
+   "slot": "pants",
+   "file": "svg/pants/pants_cream-shorts.svg",
+   "name": "Cream Shorts",
+   "z": 3
+  },
+  {
+   "slot": "pants",
+   "file": "svg/pants/pants_jeans.svg",
+   "name": "Jeans",
+   "z": 3
+  },
+  {
+   "slot": "pants",
+   "file": "svg/pants/pants_overalls.svg",
+   "name": "Overalls",
+   "z": 3
+  },
+  {
+   "slot": "pants",
+   "file": "svg/pants/pants_cargo.svg",
+   "name": "Cargo",
+   "z": 3
+  },
+  {
+   "slot": "outer",
+   "file": "svg/outer/outer_cardigan.svg",
+   "name": "Cardigan",
+   "z": 5
+  },
+  {
+   "slot": "outer",
+   "file": "svg/outer/outer_bomber.svg",
+   "name": "Bomber",
+   "z": 5
+  },
+  {
+   "slot": "outer",
+   "file": "svg/outer/outer_hoodie.svg",
+   "name": "Hoodie",
+   "z": 5
+  },
+  {
+   "slot": "outer",
+   "file": "svg/outer/outer_cape.svg",
+   "name": "Cape",
+   "z": 5
+  },
+  {
+   "slot": "shoes",
+   "file": "svg/shoes/shoes_sneakers.svg",
+   "name": "Sneakers",
+   "z": 2
+  },
+  {
+   "slot": "shoes",
+   "file": "svg/shoes/shoes_pink-boots.svg",
+   "name": "Pink Boots",
+   "z": 2
+  },
+  {
+   "slot": "shoes",
+   "file": "svg/shoes/shoes_mary-janes.svg",
+   "name": "Mary Janes",
+   "z": 2
+  },
+  {
+   "slot": "shoes",
+   "file": "svg/shoes/shoes_sky-flats.svg",
+   "name": "Sky Flats",
+   "z": 2
+  },
+  {
+   "slot": "earrings",
+   "file": "svg/earrings/earrings_pearls.svg",
+   "name": "Pearls",
+   "z": 11
+  },
+  {
+   "slot": "earrings",
+   "file": "svg/earrings/earrings_hearts.svg",
+   "name": "Hearts",
+   "z": 11
+  },
+  {
+   "slot": "earrings",
+   "file": "svg/earrings/earrings_stars.svg",
+   "name": "Stars",
+   "z": 11
+  },
+  {
+   "slot": "earrings",
+   "file": "svg/earrings/earrings_drops.svg",
+   "name": "Drops",
+   "z": 11
+  },
+  {
+   "slot": "necklace",
+   "file": "svg/necklace/necklace_pearl.svg",
+   "name": "Pearl",
+   "z": 12
+  },
+  {
+   "slot": "necklace",
+   "file": "svg/necklace/necklace_heart.svg",
+   "name": "Heart",
+   "z": 12
+  },
+  {
+   "slot": "necklace",
+   "file": "svg/necklace/necklace_gold.svg",
+   "name": "Gold",
+   "z": 12
+  },
+  {
+   "slot": "necklace",
+   "file": "svg/necklace/necklace_choker.svg",
+   "name": "Choker",
+   "z": 12
+  },
+  {
+   "slot": "glasses",
+   "file": "svg/glasses/glasses_round.svg",
+   "name": "Round",
+   "z": 13
+  },
+  {
+   "slot": "glasses",
+   "file": "svg/glasses/glasses_pink.svg",
+   "name": "Pink",
+   "z": 13
+  },
+  {
+   "slot": "glasses",
+   "file": "svg/glasses/glasses_sky.svg",
+   "name": "Sky",
+   "z": 13
+  },
+  {
+   "slot": "glasses",
+   "file": "svg/glasses/glasses_shades.svg",
+   "name": "Shades",
+   "z": 13
+  },
+  {
+   "slot": "ribbon",
+   "file": "svg/ribbon/ribbon_pink-bow.svg",
+   "name": "Pink Bow",
+   "z": 10
+  },
+  {
+   "slot": "ribbon",
+   "file": "svg/ribbon/ribbon_lilac-bow.svg",
+   "name": "Lilac Bow",
+   "z": 10
+  },
+  {
+   "slot": "ribbon",
+   "file": "svg/ribbon/ribbon_twin-bows.svg",
+   "name": "Twin Bows",
+   "z": 10
+  },
+  {
+   "slot": "ribbon",
+   "file": "svg/ribbon/ribbon_headband.svg",
+   "name": "Headband",
+   "z": 10
+  },
+  {
+   "slot": "hat",
+   "file": "svg/hat/hat_beret.svg",
+   "name": "Beret",
+   "z": 10
+  },
+  {
+   "slot": "hat",
+   "file": "svg/hat/hat_bucket.svg",
+   "name": "Bucket",
+   "z": 10
+  },
+  {
+   "slot": "hat",
+   "file": "svg/hat/hat_cat-ears.svg",
+   "name": "Cat Ears",
+   "z": 10
+  },
+  {
+   "slot": "hat",
+   "file": "svg/hat/hat_flowers.svg",
+   "name": "Flowers",
+   "z": 10
+  },
+  {
+   "slot": "bag",
+   "file": "svg/bag/bag_heart-bag.svg",
+   "name": "Heart Bag",
+   "z": 14
+  },
+  {
+   "slot": "bag",
+   "file": "svg/bag/bag_star-bag.svg",
+   "name": "Star Bag",
+   "z": 14
+  },
+  {
+   "slot": "bag",
+   "file": "svg/bag/bag_backpack.svg",
+   "name": "Backpack",
+   "z": 14
+  },
+  {
+   "slot": "bag",
+   "file": "svg/bag/bag_basket.svg",
+   "name": "Basket",
+   "z": 14
+  }
+ ]
+}
