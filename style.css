@@ -142,9 +142,10 @@ button:focus-visible {
 }
 
 #doll {
-  position: relative;
-  aspect-ratio: 32/45;
+  display: block;
+  image-rendering: pixelated;
   width: min(300px, 62vw);
+  aspect-ratio: 32/45;
   margin: 0 auto;
   animation: bob 2.4s steps(2) infinite;
   transition: transform .2s
@@ -408,7 +409,8 @@ img.eyes {
 }
 
 #finalDoll {
-  position: relative;
+  display: block;
+  image-rendering: pixelated;
   aspect-ratio: 32/45;
   width: min(220px, 50vw);
   background: linear-gradient(var(--sky), var(--blush));
@@ -454,4 +456,10 @@ img.eyes {
     animation: none !important;
     transition: none !important
   }
+}
+
+/* Kurung z-index layer di dalam karakter, supaya tidak menembus layar hasil (Finish Look) */
+#doll,
+#finalDoll {
+  isolation: isolate
 }
